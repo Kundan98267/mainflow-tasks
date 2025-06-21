@@ -1,46 +1,36 @@
-# 📊 Student Performance Analysis – Task 1
+# 📊 Task 1 – Student Performance Analysis
 
-This is my first task in the **Data Science with Python Internship** at **Main Flow Services and Technologies Pvt. Ltd.**
+This is my first task under the **Data Science with Python Internship** at **Main Flow Services and Technologies Pvt. Ltd.**
 
-In this project, I performed **exploratory data analysis (EDA)** on student exam score data to uncover insights about performance, study time, and gender differences.
-
----
-
-## 📁 Dataset Used
-- `student-mat.csv` – Math performance
-- `student-por.csv` – Portuguese performance
-- `student.txt` – Column descriptions
-- `student-merge.R` – Optional dataset merging
+I used Python to perform **EDA** on student exam scores and explored how study time, gender, and other factors impact performance.
 
 ---
 
-## 📌 Key Tasks
-- Data loading & cleaning using `pandas`
-- Analyzed final grade (G3) averages & trends
-- Visualized score patterns using `matplotlib` and `seaborn`
-- Compared performance by gender and study time
+## 📁 Files Used
+- `student-mat.csv`  
+- `student-por.csv`  
+- `student.txt`  
+- `student-merge.R` (optional)
 
 ---
 
-## 🛠 Tools
-Python · Pandas · NumPy · Matplotlib · Seaborn · Jupyter Notebook
+## 🔧 Tools
+Python · Pandas · NumPy · Matplotlib · Seaborn
 
 ---
 
 ## ✅ Outcome
-Strengthened skills in:
-- Real-world EDA
-- Data visualization
-- Drawing actionable insights using Python
+- Practiced real-world EDA  
+- Built clear visualizations  
+- Extracted meaningful insights
 
 ---
 
 ## 📅 Internship Info
 **Company**: Main Flow Services and Technologies Pvt. Ltd.  
-**Role**: Data Science Intern  
-**Task**: 1 – Student Performance Analysis
+**Task**: 1 – EDA using Python
 
 ---
 
 ## 📬 Contact
-Connect with me on [LinkedIn](https://www.linkedin.com/in/kundan98267/)
+[LinkedIn – Kundan Kumar](https://www.linkedin.com/in/kundan98267/)
